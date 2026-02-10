@@ -1,0 +1,555 @@
+C:\Users\USER\.conda\envs\main_v2.py\python.exe "C:\Users\USER\Desktop\호중\제출할 파일\v444\main.py" 
+./train/airplane/
+./train/automobile/
+./train/bird/
+./train/cat/
+./train/deer/
+./train/dog/
+./train/frog/
+./train/horse/
+./train/ship/
+./train/truck/
+./test/airplane/
+./test/automobile/
+./test/bird/
+./test/cat/
+./test/deer/
+./test/dog/
+./test/frog/
+./test/horse/
+./test/ship/
+./test/truck/
+MEAN: [0.44653091 0.48215841 0.49139968]
+STD: [0.26158784 0.24348513 0.24703223]
+훈련 데이터 shape: (50000, 32, 32, 3)
+테스트 데이터 shape: (1000, 32, 32, 3)
+훈련 라벨 분포: [5000 5000 5000 5000 5000 5000 5000 5000 5000 5000]
+테스트 라벨 분포: [100 100 100 100 100 100 100 100 100 100]
+이미지 값 범위: 0.0 255.0
+it: 0   train loss: 2.402893
+Test
+Accuracy : 9.700000 
+Best model saved (acc: 9.70%)
+it: 100   train loss: 1.717912
+it: 200   train loss: 1.531337
+it: 300   train loss: 1.461540
+it: 400   train loss: 1.425988
+it: 500   train loss: 1.371616
+it: 600   train loss: 1.333756
+it: 700   train loss: 1.190855
+it: 800   train loss: 0.979399
+it: 900   train loss: 1.088065
+it: 1000   train loss: 1.134925
+Test
+Accuracy : 58.800000 
+Best model saved (acc: 58.80%)
+it: 1100   train loss: 1.015385
+it: 1200   train loss: 1.071290
+it: 1300   train loss: 1.017709
+it: 1400   train loss: 0.905615
+it: 1500   train loss: 1.018986
+it: 1600   train loss: 0.882250
+it: 1700   train loss: 1.110112
+it: 1800   train loss: 0.939271
+it: 1900   train loss: 0.794889
+it: 2000   train loss: 0.905202
+Test
+Accuracy : 71.000000 
+Best model saved (acc: 71.00%)
+it: 2100   train loss: 0.904807
+it: 2200   train loss: 0.690463
+it: 2300   train loss: 0.782443
+it: 2400   train loss: 0.714364
+it: 2500   train loss: 0.989699
+it: 2600   train loss: 0.721870
+it: 2700   train loss: 0.708915
+it: 2800   train loss: 0.916122
+it: 2900   train loss: 0.715806
+it: 3000   train loss: 0.682637
+Test
+Accuracy : 72.100000 
+Best model saved (acc: 72.10%)
+it: 3100   train loss: 0.757567
+it: 3200   train loss: 0.788827
+it: 3300   train loss: 1.065192
+it: 3400   train loss: 0.866374
+it: 3500   train loss: 0.618195
+it: 3600   train loss: 0.858355
+it: 3700   train loss: 0.776788
+it: 3800   train loss: 0.610165
+it: 3900   train loss: 0.654878
+it: 4000   train loss: 0.626584
+Test
+Accuracy : 77.600000 
+Best model saved (acc: 77.60%)
+it: 4100   train loss: 0.635150
+it: 4200   train loss: 0.690601
+it: 4300   train loss: 0.678798
+it: 4400   train loss: 0.486512
+it: 4500   train loss: 0.770062
+it: 4600   train loss: 0.792320
+it: 4700   train loss: 0.648753
+it: 4800   train loss: 0.831770
+it: 4900   train loss: 0.825302
+it: 5000   train loss: 0.620625
+Test
+Accuracy : 77.300000 
+No improvement (1000/15000)
+it: 5100   train loss: 0.799179
+it: 5200   train loss: 0.722950
+it: 5300   train loss: 0.693465
+it: 5400   train loss: 0.634912
+it: 5500   train loss: 0.926349
+it: 5600   train loss: 0.709582
+it: 5700   train loss: 0.611859
+it: 5800   train loss: 0.616170
+it: 5900   train loss: 0.662761
+it: 6000   train loss: 0.721656
+Test
+Accuracy : 76.300000 
+No improvement (2000/15000)
+it: 6100   train loss: 0.682646
+it: 6200   train loss: 0.574655
+it: 6300   train loss: 0.699622
+it: 6400   train loss: 0.649454
+it: 6500   train loss: 0.583020
+it: 6600   train loss: 0.601021
+it: 6700   train loss: 0.729938
+it: 6800   train loss: 0.684285
+it: 6900   train loss: 0.563645
+it: 7000   train loss: 0.556809
+Test
+Accuracy : 77.700000 
+No improvement (3000/15000)
+it: 7100   train loss: 0.732463
+it: 7200   train loss: 0.764821
+it: 7300   train loss: 0.653828
+it: 7400   train loss: 0.612007
+it: 7500   train loss: 0.619810
+it: 7600   train loss: 0.499569
+it: 7700   train loss: 0.680864
+it: 7800   train loss: 0.784869
+it: 7900   train loss: 0.760521
+it: 8000   train loss: 0.567946
+Test
+Accuracy : 76.200000 
+No improvement (4000/15000)
+it: 8100   train loss: 0.731415
+it: 8200   train loss: 0.619108
+it: 8300   train loss: 0.558441
+it: 8400   train loss: 0.796712
+it: 8500   train loss: 0.640312
+it: 8600   train loss: 0.758459
+it: 8700   train loss: 0.678712
+it: 8800   train loss: 0.599497
+it: 8900   train loss: 0.738639
+it: 9000   train loss: 0.606010
+Test
+Accuracy : 74.000000 
+No improvement (5000/15000)
+it: 9100   train loss: 0.708796
+it: 9200   train loss: 0.830826
+it: 9300   train loss: 0.555241
+it: 9400   train loss: 0.623443
+it: 9500   train loss: 0.598568
+it: 9600   train loss: 0.628039
+it: 9700   train loss: 0.618470
+it: 9800   train loss: 0.671790
+it: 9900   train loss: 0.644898
+it: 10000   train loss: 0.663463
+Test
+Accuracy : 80.700000 
+Best model saved (acc: 80.70%)
+it: 10100   train loss: 0.508600
+it: 10200   train loss: 0.543395
+it: 10300   train loss: 0.540596
+it: 10400   train loss: 0.730194
+it: 10500   train loss: 0.654292
+it: 10600   train loss: 0.557494
+it: 10700   train loss: 0.676714
+it: 10800   train loss: 0.628419
+it: 10900   train loss: 0.662714
+it: 11000   train loss: 0.489196
+Test
+Accuracy : 80.700000 
+No improvement (1000/15000)
+it: 11100   train loss: 0.529149
+it: 11200   train loss: 0.553391
+it: 11300   train loss: 0.605098
+it: 11400   train loss: 0.461884
+it: 11500   train loss: 0.543368
+it: 11600   train loss: 0.492321
+it: 11700   train loss: 0.566301
+it: 11800   train loss: 0.605664
+it: 11900   train loss: 0.485090
+it: 12000   train loss: 0.561236
+Test
+Accuracy : 77.300000 
+No improvement (2000/15000)
+it: 12100   train loss: 0.651082
+it: 12200   train loss: 0.509764
+it: 12300   train loss: 0.513555
+it: 12400   train loss: 0.620291
+it: 12500   train loss: 0.551830
+it: 12600   train loss: 0.503693
+it: 12700   train loss: 0.494003
+it: 12800   train loss: 0.566950
+it: 12900   train loss: 0.610388
+it: 13000   train loss: 0.852160
+Test
+Accuracy : 82.200000 
+Best model saved (acc: 82.20%)
+it: 13100   train loss: 0.548820
+it: 13200   train loss: 0.652472
+it: 13300   train loss: 0.690000
+it: 13400   train loss: 0.648119
+it: 13500   train loss: 0.681004
+it: 13600   train loss: 0.538620
+it: 13700   train loss: 0.614833
+it: 13800   train loss: 0.485367
+it: 13900   train loss: 0.471921
+it: 14000   train loss: 0.615154
+Test
+Accuracy : 83.800000 
+Best model saved (acc: 83.80%)
+it: 14100   train loss: 0.642934
+it: 14200   train loss: 0.535733
+it: 14300   train loss: 0.614437
+it: 14400   train loss: 0.505486
+it: 14500   train loss: 0.681433
+it: 14600   train loss: 0.615310
+it: 14700   train loss: 0.539096
+it: 14800   train loss: 0.451449
+it: 14900   train loss: 0.466674
+it: 15000   train loss: 0.485703
+Test
+Accuracy : 81.800000 
+No improvement (1000/15000)
+it: 15100   train loss: 0.514121
+it: 15200   train loss: 0.561800
+it: 15300   train loss: 0.497106
+it: 15400   train loss: 0.543220
+it: 15500   train loss: 0.593405
+it: 15600   train loss: 0.619229
+it: 15700   train loss: 0.641846
+it: 15800   train loss: 0.501692
+it: 15900   train loss: 0.410362
+it: 16000   train loss: 0.426166
+Test
+Accuracy : 82.600000 
+No improvement (2000/15000)
+it: 16100   train loss: 0.535654
+it: 16200   train loss: 0.397191
+it: 16300   train loss: 0.553170
+it: 16400   train loss: 0.599728
+it: 16500   train loss: 0.507699
+it: 16600   train loss: 0.472525
+it: 16700   train loss: 0.457317
+it: 16800   train loss: 0.504246
+it: 16900   train loss: 0.506310
+it: 17000   train loss: 0.403935
+Test
+Accuracy : 82.300000 
+No improvement (3000/15000)
+it: 17100   train loss: 0.483118
+it: 17200   train loss: 0.371359
+it: 17300   train loss: 0.361499
+it: 17400   train loss: 0.483496
+it: 17500   train loss: 0.496170
+it: 17600   train loss: 0.527015
+it: 17700   train loss: 0.471611
+it: 17800   train loss: 0.428107
+it: 17900   train loss: 0.373983
+it: 18000   train loss: 0.466072
+Test
+Accuracy : 84.800000 
+Best model saved (acc: 84.80%)
+it: 18100   train loss: 0.450487
+it: 18200   train loss: 0.507628
+it: 18300   train loss: 0.460484
+it: 18400   train loss: 0.553026
+it: 18500   train loss: 0.377962
+it: 18600   train loss: 0.518130
+it: 18700   train loss: 0.341364
+it: 18800   train loss: 0.518122
+it: 18900   train loss: 0.652860
+it: 19000   train loss: 0.456634
+Test
+Accuracy : 85.100000 
+Best model saved (acc: 85.10%)
+it: 19100   train loss: 0.556682
+it: 19200   train loss: 0.525833
+it: 19300   train loss: 0.546007
+it: 19400   train loss: 0.506121
+it: 19500   train loss: 0.382918
+it: 19600   train loss: 0.469414
+it: 19700   train loss: 0.364981
+it: 19800   train loss: 0.425853
+it: 19900   train loss: 0.452473
+it: 20000   train loss: 0.442756
+Test
+Accuracy : 82.900000 
+No improvement (1000/15000)
+it: 20100   train loss: 0.412843
+it: 20200   train loss: 0.680848
+it: 20300   train loss: 0.609719
+it: 20400   train loss: 0.532124
+it: 20500   train loss: 0.375019
+it: 20600   train loss: 0.477198
+it: 20700   train loss: 0.337819
+it: 20800   train loss: 0.459722
+it: 20900   train loss: 0.395706
+it: 21000   train loss: 0.493429
+Test
+Accuracy : 85.300000 
+Best model saved (acc: 85.30%)
+it: 21100   train loss: 0.399416
+it: 21200   train loss: 0.418580
+it: 21300   train loss: 0.358031
+it: 21400   train loss: 0.353851
+it: 21500   train loss: 0.491697
+it: 21600   train loss: 0.342614
+it: 21700   train loss: 0.483498
+it: 21800   train loss: 0.414574
+it: 21900   train loss: 0.455969
+it: 22000   train loss: 0.461816
+Test
+Accuracy : 86.500000 
+Best model saved (acc: 86.50%)
+it: 22100   train loss: 0.329575
+it: 22200   train loss: 0.441889
+it: 22300   train loss: 0.385645
+it: 22400   train loss: 0.449303
+it: 22500   train loss: 0.452784
+it: 22600   train loss: 0.474224
+it: 22700   train loss: 0.444340
+it: 22800   train loss: 0.419367
+it: 22900   train loss: 0.342154
+it: 23000   train loss: 0.408677
+Test
+Accuracy : 89.000000 
+Best model saved (acc: 89.00%)
+it: 23100   train loss: 0.485229
+it: 23200   train loss: 0.536905
+it: 23300   train loss: 0.345953
+it: 23400   train loss: 0.528876
+it: 23500   train loss: 0.406797
+it: 23600   train loss: 0.395120
+it: 23700   train loss: 0.439710
+it: 23800   train loss: 0.453618
+it: 23900   train loss: 0.348053
+it: 24000   train loss: 0.430246
+Test
+Accuracy : 88.200000 
+No improvement (1000/15000)
+it: 24100   train loss: 0.406482
+it: 24200   train loss: 0.462286
+it: 24300   train loss: 0.458592
+it: 24400   train loss: 0.373165
+it: 24500   train loss: 0.342631
+it: 24600   train loss: 0.388304
+it: 24700   train loss: 0.528185
+it: 24800   train loss: 0.496683
+it: 24900   train loss: 0.323661
+it: 25000   train loss: 0.390420
+Test
+Accuracy : 88.900000 
+No improvement (2000/15000)
+it: 25100   train loss: 0.423566
+it: 25200   train loss: 0.410468
+it: 25300   train loss: 0.504956
+it: 25400   train loss: 0.448696
+it: 25500   train loss: 0.506597
+it: 25600   train loss: 0.365315
+it: 25700   train loss: 0.355787
+it: 25800   train loss: 0.373217
+it: 25900   train loss: 0.453412
+it: 26000   train loss: 0.427410
+Test
+Accuracy : 87.400000 
+No improvement (3000/15000)
+it: 26100   train loss: 0.423404
+it: 26200   train loss: 0.333442
+it: 26300   train loss: 0.344130
+it: 26400   train loss: 0.384938
+it: 26500   train loss: 0.428664
+it: 26600   train loss: 0.367921
+it: 26700   train loss: 0.417991
+it: 26800   train loss: 0.379160
+it: 26900   train loss: 0.478455
+it: 27000   train loss: 0.307467
+Test
+Accuracy : 89.400000 
+Best model saved (acc: 89.40%)
+it: 27100   train loss: 0.437925
+it: 27200   train loss: 0.423650
+it: 27300   train loss: 0.388510
+it: 27400   train loss: 0.433694
+it: 27500   train loss: 0.482089
+it: 27600   train loss: 0.295490
+it: 27700   train loss: 0.421423
+it: 27800   train loss: 0.363894
+it: 27900   train loss: 0.328332
+it: 28000   train loss: 0.312470
+Test
+Accuracy : 87.800000 
+No improvement (1000/15000)
+it: 28100   train loss: 0.336156
+it: 28200   train loss: 0.422581
+it: 28300   train loss: 0.296277
+it: 28400   train loss: 0.364754
+it: 28500   train loss: 0.257684
+it: 28600   train loss: 0.462823
+it: 28700   train loss: 0.253312
+it: 28800   train loss: 0.242771
+it: 28900   train loss: 0.302123
+it: 29000   train loss: 0.216583
+Test
+Accuracy : 90.500000 
+Best model saved (acc: 90.50%)
+it: 29100   train loss: 0.362882
+it: 29200   train loss: 0.271293
+it: 29300   train loss: 0.345328
+it: 29400   train loss: 0.218326
+it: 29500   train loss: 0.347806
+it: 29600   train loss: 0.304395
+it: 29700   train loss: 0.160020
+it: 29800   train loss: 0.321714
+it: 29900   train loss: 0.303101
+it: 30000   train loss: 0.352733
+Test
+Accuracy : 90.800000 
+Best model saved (acc: 90.80%)
+it: 30100   train loss: 0.436925
+it: 30200   train loss: 0.370756
+it: 30300   train loss: 0.216088
+it: 30400   train loss: 0.219168
+it: 30500   train loss: 0.337919
+it: 30600   train loss: 0.340419
+it: 30700   train loss: 0.182995
+it: 30800   train loss: 0.287441
+it: 30900   train loss: 0.264609
+it: 31000   train loss: 0.334440
+Test
+Accuracy : 90.600000 
+No improvement (1000/15000)
+it: 31100   train loss: 0.292608
+it: 31200   train loss: 0.247975
+it: 31300   train loss: 0.209495
+it: 31400   train loss: 0.203765
+it: 31500   train loss: 0.365767
+it: 31600   train loss: 0.240635
+it: 31700   train loss: 0.190700
+it: 31800   train loss: 0.255203
+it: 31900   train loss: 0.335418
+it: 32000   train loss: 0.215628
+Test
+Accuracy : 91.900000 
+Best model saved (acc: 91.90%)
+it: 32100   train loss: 0.278990
+it: 32200   train loss: 0.195609
+it: 32300   train loss: 0.296425
+it: 32400   train loss: 0.137983
+it: 32500   train loss: 0.222435
+it: 32600   train loss: 0.194259
+it: 32700   train loss: 0.160175
+it: 32800   train loss: 0.312086
+it: 32900   train loss: 0.322700
+it: 33000   train loss: 0.237331
+Test
+Accuracy : 92.000000 
+No improvement (1000/15000)
+it: 33100   train loss: 0.270589
+it: 33200   train loss: 0.273303
+it: 33300   train loss: 0.337151
+it: 33400   train loss: 0.337452
+it: 33500   train loss: 0.200619
+it: 33600   train loss: 0.194893
+it: 33700   train loss: 0.299778
+it: 33800   train loss: 0.252300
+it: 33900   train loss: 0.241734
+it: 34000   train loss: 0.204485
+Test
+Accuracy : 93.500000 
+Best model saved (acc: 93.50%)
+it: 34100   train loss: 0.235600
+it: 34200   train loss: 0.164003
+it: 34300   train loss: 0.261291
+it: 34400   train loss: 0.326140
+it: 34500   train loss: 0.145673
+it: 34600   train loss: 0.220586
+it: 34700   train loss: 0.163319
+it: 34800   train loss: 0.128927
+it: 34900   train loss: 0.249922
+it: 35000   train loss: 0.214814
+Test
+Accuracy : 93.700000 
+Best model saved (acc: 93.70%)
+it: 35100   train loss: 0.194290
+it: 35200   train loss: 0.159556
+it: 35300   train loss: 0.170794
+it: 35400   train loss: 0.193201
+it: 35500   train loss: 0.206618
+it: 35600   train loss: 0.154263
+it: 35700   train loss: 0.150773
+it: 35800   train loss: 0.094133
+it: 35900   train loss: 0.176815
+it: 36000   train loss: 0.146358
+Test
+Accuracy : 94.000000 
+Best model saved (acc: 94.00%)
+it: 36100   train loss: 0.176942
+it: 36200   train loss: 0.063160
+it: 36300   train loss: 0.157329
+it: 36400   train loss: 0.196539
+it: 36500   train loss: 0.237227
+it: 36600   train loss: 0.143514
+it: 36700   train loss: 0.125193
+it: 36800   train loss: 0.196279
+it: 36900   train loss: 0.157693
+it: 37000   train loss: 0.096875
+Test
+Accuracy : 94.700000 
+Best model saved (acc: 94.70%)
+it: 37100   train loss: 0.212851
+it: 37200   train loss: 0.158993
+it: 37300   train loss: 0.193097
+it: 37400   train loss: 0.077462
+it: 37500   train loss: 0.169437
+it: 37600   train loss: 0.184250
+it: 37700   train loss: 0.111387
+it: 37800   train loss: 0.192356
+it: 37900   train loss: 0.182507
+it: 38000   train loss: 0.199373
+Test
+Accuracy : 94.800000 
+Best model saved (acc: 94.80%)
+it: 38100   train loss: 0.119819
+it: 38200   train loss: 0.164983
+it: 38300   train loss: 0.116034
+it: 38400   train loss: 0.172606
+it: 38500   train loss: 0.227923
+it: 38600   train loss: 0.143145
+it: 38700   train loss: 0.103727
+it: 38800   train loss: 0.121212
+it: 38900   train loss: 0.072530
+it: 39000   train loss: 0.137965
+Test
+Accuracy : 94.900000 
+No improvement (1000/15000)
+it: 39100   train loss: 0.173348
+it: 39200   train loss: 0.078957
+it: 39300   train loss: 0.205023
+it: 39400   train loss: 0.238480
+it: 39500   train loss: 0.154341
+it: 39600   train loss: 0.121916
+it: 39700   train loss: 0.143948
+it: 39800   train loss: 0.190554
+it: 39900   train loss: 0.188176
+it: 40000   train loss: 0.108260
+Test
+Accuracy : 95.000000 
+Best model saved (acc: 95.00%)
+Training done / best: 95.00%
+
+종료 코드 0(으)로 완료된 프로세스
